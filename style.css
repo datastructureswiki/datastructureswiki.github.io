@@ -13,14 +13,14 @@ h1{
 .cool-text{
   color:red;
 }
-.background {
-  background: linear-gradient(319deg, #11151c, #212d40, #364156, #7d4e57);
+body {
+  background: linear-gradient(319deg, #7d4e57, #364156, #212d40, #11151c, #212d40, #364156, #7d4e57);
   background-size: 800% 800%;
   flex:1 1 auto;
-  -webkit-animation: AnimationName 60s ease infinite;
-  -moz-animation: AnimationName 60s ease infinite;
-  -o-animation: AnimationName 60s ease infinite;
-  animation: AnimationName 60s ease infinite;
+  -webkit-animation: AnimationName 240s ease infinite;
+  -moz-animation: AnimationName 240s ease infinite;
+  -o-animation: AnimationName 240s ease infinite;
+  animation: AnimationName 240s ease infinite;
 }
 @-webkit-keyframes AnimationName {
   0%{background-position:0% 2%}
