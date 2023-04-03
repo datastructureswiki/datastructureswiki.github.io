@@ -112,6 +112,11 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.17.14.tgz#e81fb49de05fed91bf74251c9ca0343f4fc77d31"
   integrity sha512-gPQmsi2DKTaEgG14hc3CHXHp62k8g6qr0Pas+I4lUxRMugGSATh/Bi8Dgusoz9IQ0IfdrvLpco6kujEIBoaogA==
 
+bootstrap@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.2.3.tgz#54739f4414de121b9785c5da3c87b37ff008322b"
+  integrity sha512-cEKPM+fwb3cT8NzQZYEu4HilJ3anCrWqh3CHAok1p9jXqMPsPTBhU25fBckEJHJ/p+tTxTFTsFQGM+gaHpi3QQ==
+
 esbuild@^0.17.5:
   version "0.17.14"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.17.14.tgz#d61a22de751a3133f3c6c7f9c1c3e231e91a3245"
